@@ -1,6 +1,4 @@
-# HealthFAQ-NLP-Chatbot-for-Automated-FAQ-Answering
-
-# IntelliFAQ: AI-Powered Semantic FAQ Chatbot ✨
+# HealthFAQ-NLP-Chatbot-for-Automated-FAQ-Answering ✨
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-Sentence--Transformers-orange)](https://www.sbert.net/)
