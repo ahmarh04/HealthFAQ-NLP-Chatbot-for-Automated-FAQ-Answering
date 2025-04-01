@@ -6,8 +6,6 @@
 [![Framework](https://img.shields.io/badge/Framework-Sentence--Transformers-orange)](https://www.sbert.net/)
 [![Interface](https://img.shields.io/badge/Interface-ipywidgets-purple)](https://ipywidgets.readthedocs.io/en/latest/)
 
-**Live Demo (within the Notebook):** [notebook6af4da59da.ipynb](notebook6af4da59da.ipynb)
-
 ---
 
 ## 📄 Overview
